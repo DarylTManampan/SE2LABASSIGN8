@@ -25,4 +25,4 @@ The system should be able to represent the following:
    - Calculating and displaying the total budget of a College.
 
 ### UML Class Diagram
-![image]()
+![compositeUML](https://github.com/DarylTManampan/SE2LABASSIGN8/blob/main/compositeUML.png)
